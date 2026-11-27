@@ -1,6 +1,7 @@
 ## Global Solution Substitutiva 2CCPA
 ## PROPOSTA DE TEMA:
 # PROJETO ZelaBairro
+## Nome: Henry de Oliveira Vasconcellos | RM: 566836
 
 ## Qual problema real ele resolve?
 No dia a dia, o cidadão encontra problemas de infraestrutura no bairro — como postes apagados, buracos no asfalto, descarte irregular de lixo, bueiros entupidos ou calçadas quebradas. Na prática, surgem dois obstáculos comuns:
@@ -11,4 +12,6 @@ O app funciona como um caderno cidadão estruturado e totalmente offline:
 O usuário registra a ocorrência na hora (título, categoria, órgão responsável, endereço, ponto de referência, nível de urgência e descrição).
 Depois, pode abrir os detalhes, editar a ocorrência para incluir o número de protocolo e atualizar o status (aberta → protocolada → em_andamento → resolvida).
 Consegue filtrar ocorrências por status na lista principal e excluir registros antigos ou duplicados.
+
+## Aperte F12 seguido de Ctrl+Shift+M para mudar para o layout de smartphone
 
