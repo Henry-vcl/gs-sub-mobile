@@ -1,6 +1,6 @@
+## Global Solution Substitutiva 2CCPA
 ## PROPOSTA DE TEMA:
 # PROJETO ZelaBairro
-Global Solution Substitutiva 2CCPA
 
 ## Qual problema real ele resolve?
 No dia a dia, o cidadão encontra problemas de infraestrutura no bairro — como postes apagados, buracos no asfalto, descarte irregular de lixo, bueiros entupidos ou calçadas quebradas. Na prática, surgem dois obstáculos comuns:
